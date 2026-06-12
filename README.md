@@ -65,6 +65,4 @@ Built for Smart India Hackathon 2022 under the DRDO problem statement on legal A
 
 **Team:** Puneeth Ram P, Shreevarshan B, Sri Likhita Adru, Sunil B, Surya J, Yashwant B
 
-**Mentors:** D.M. Divya, Subha I
-
 R.M.K Engineering College, India
